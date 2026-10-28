@@ -82,8 +82,8 @@ public class Activate_Deactivate_OE : MonoBehaviour
 
 |**Script Name**|**Rank**|**Details**|
 |------------------|---|-------------------------------------------------------------------------|
-|FluidDomainCheck|S&nbsp;(some&nbsp;A)|Recent (September 2026), written to practice syntax. Most of it was written by me, except the few methods that I couldn't remember. It has no limits on its values, as I was deliberately putting in extreme values to see what happens.|
-|StillWaterReactor|S&nbsp;(some&nbsp;A)|Recent (September 2026), written to practice syntax. Most of it was written by me, except the few methods that I couldn't remember. It has no limits on its values, as I was deliberately putting in extreme values to see what happens.|
+|FluidDomainCheck|S&nbsp;(some&nbsp;A)|Recent (September 2026), written to practice syntax. Most of it was written by me, except the few methods that I couldn't remember.|
+|StillWaterReactor|S&nbsp;(some&nbsp;A)|Recent (September 2026), written to practice syntax. Most of it was written by me, except the few methods that I couldn't remember.|
 |BasicMovement_2|A&nbsp;(some&nbsp;B)|Most parts were written with web-search help for syntax, while others were generated with detailed prompts.|
 |OperatorAI|A&nbsp;(some&nbsp;B)|The boss used in the game. Most parts were written with web-search help for syntax, while others were generated with detailed prompts. Every attack except the teleport only spawns a prefab or turns on an object; the rest runs on state machines I designed.|
 |OperatorAI_ML|A&nbsp;(some&nbsp;B)|The earlier ML version of the boss. Most parts were written with web-search help for syntax, while others were generated with detailed prompts.|
