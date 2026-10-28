@@ -104,6 +104,8 @@ public class Activate_Deactivate_OE : MonoBehaviour
 - Advice for the horizon fade in the same skybox: Claude
   - Note: Check out the skybox(es) in the images included in the media section.
 - Some textures used in my game: https://polyhaven.com/textures
+- ChatGPT (free plan): used to digitalize my hand-drawn images.
+- Picsart (phone app): used to edit images for UI and some textures.
 - Code generation and editing, as explained above: Claude and Gemini (AI chatbots, free plans)
 
 **A note from the student:** *Though coding is mostly about creating efficient methods that work the way you want them to, while being cheap on the hardware and easy to understand (unless it's for a security system I guess), knowing the syntax lets you use the best tools available. So, I've created this table as the SlideRoom prompt said to explain the use of any assistive tool(s) in detail, and I think web searches and AI clearly fit that criterion. Unfortunately due to my family and academics, I couldn't learn the syntax for every method I created, but still have managed to create some scripts I think are original. I've tried my best to make my portfolio as simple as possible to read, while keeping it honest. The goal isn't to show why I should get in, but to let you (the SlideRoom reviewers) decide if I'll be able to thrive at MIT.*
