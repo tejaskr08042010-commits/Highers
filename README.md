@@ -79,7 +79,7 @@ public class Activate_Deactivate_OE : MonoBehaviour
 **Scripts [ranked based on the legend above]**
 
 |**Script Name**|**Rank**|**Details**|
-|------------------|---|-------------------------------------------------------------------------|
+|------------------|-------|-------------------------------------------------------------------------|
 |FluidDomainCheck|S (some A)|Recent (September 2026), written to practice syntax. Most of it was written by me, except the few methods that I couldn't remember. It has no limits on its values, as I was deliberately putting in extreme values to see what happens.|
 |StillWaterReactor|S (some A)|Recent (September 2026), written to practice syntax. Most of it was written by me, except the few methods that I couldn't remember. It has no limits on its values, as I was deliberately putting in extreme values to see what happens.|
 |BasicMovement_2|A (some B)|Most parts were written with web-search help for syntax, while others were generated with detailed prompts.|
