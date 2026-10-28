@@ -1,3 +1,5 @@
+Note:- These scripts (MainScripts) are the ones I mainly wanted to show, but the game has many more (probably hundreds) of scripts and subscripts, mostly for the state machines I designed, whose behavior is demonstrated in the video. The Supporting scripts folder is only included so the variables and connections aren’t ambiguous; it isn’t the central part of this portfolio.
+
 **Authorship ranking [For C# code]:**
 
 Each script gets a rank for how much of its C# was written by me, searched for on the web, or written by AI. Like a game tier list: S is the top. The ranks describe only the C# code. Models, visuals, state machines, particle effects, and level design are separate and are mine. Tier B, C and F are AI prompts.
