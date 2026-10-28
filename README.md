@@ -9,7 +9,7 @@ Each script gets a rank for how much of its C# was written by me, searched for o
 - **C** : I design the mechanism and describe in detail what should happen. AI decides the logic and writes all the code.
 - **F** : I give a loose instruction and AI generates the code.
 
-*[Illustrative: one simple script, shown at each rank]*
+*[Example: one simple script from the game (Activate_Deactivate_OE), shown at each rank. The prompts are illustrative.]*
 
 *Example code*
 
@@ -80,20 +80,25 @@ public class Activate_Deactivate_OE : MonoBehaviour
 
 |**Script Name**|**Rank**|**Details**|
 |------------------|---|-------------------------------------------------------------------------|
-|FluidDomainCheck|S/A|Most of it was written by me, except the few methods that I couldn't remember.|
-|StillWaterReactor|S/A|Most of it was written by me, except the few methods that I couldn't remember.|
-|BasicMovement_2|A/B|Most parts were written by search, while others generated with detailed prompts.|
-|OperatorAI|A/B|Most parts were written by search, while others generated with detailed prompts.|
-|OperatorAI_ML|A/B|Most parts were written by search, while others generated with detailed prompts.|
-|MagicCircleHUD|B/A|Some parts were written by search, while most generated with detailed prompts.|
+|FluidDomainCheck|S (some A)|Recent (September 2026), written to practice syntax. Most of it was written by me, except the few methods that I couldn't remember. It has no limits on its values, as I was deliberately putting in extreme values to see what happens.|
+|StillWaterReactor|S (some A)|Recent (September 2026), written to practice syntax. Most of it was written by me, except the few methods that I couldn't remember. It has no limits on its values, as I was deliberately putting in extreme values to see what happens.|
+|BasicMovement_2|A (some B)|Most parts were written with web-search help for syntax, while others were generated with detailed prompts.|
+|OperatorAI|A (some B)|The boss used in the game. Most parts were written with web-search help for syntax, while others were generated with detailed prompts. Every attack except the teleport only spawns a prefab or turns on an object; the rest runs on state machines I designed.|
+|OperatorAI_ML|A (some B)|The earlier ML version of the boss. Most parts were written with web-search help for syntax, while others were generated with detailed prompts.|
+|MagicCircleHUD|B (some A)|Some parts were written with web-search help, while most were generated with detailed prompts.|
 |OperatorAgent|B|Syntax was almost completely searched for using AI, while I connected the attacks and rewards.|
 
-(*The Supporting scripts weren't individually ranked. That folder is only included so the variables and connections aren't ambiguous; it isn't the central part of this portfolio. Almost all of them belong to [B/A].*)
+(*The Supporting scripts weren't individually ranked. That folder is only included so the variables and connections aren't ambiguous; it isn't the central part of this portfolio. Almost all of them belong to B (some A).*)
+
+**Notes**
+- OperatorAI is the boss used in the game. Both the ML version (OperatorAI_ML and OperatorAgent) and this interval-based version are present. The ML one's attacks land more often, but it's slow and the fight stretches long, even after many retrains. The interval-based one is quite consistent, and its tight conditions make its attacks hit too, even if not as often.
+- FluidDomainCheck and StillWaterReactor are recent (September 2026), written to practice syntax. They have no limits on their values, because I was deliberately putting in extreme values to see what happens.
+- The visuals of the game are in the media section.
 
 **Honorable mentions [Credits for free stuff]**
 - operator_config_fresh (ML configuration file): https://docs.unity3d.com/Packages/com.unity.ml-agents@4.0/manual/Training-Configuration-File.html, assisted by AI chatbot (Claude) to better understand the terms.
 - Moon Texture for Skybox creation: https://svs.gsfc.nasa.gov/4720
-- Stars (Blender): I followed this 1 minute tutorial to learn the technique for creating stars in Blender, though I edited the setup afterwards (and the rest are all me): https://www.youtube.com/watch?v=d1cu8svVkbE
+- Stars (Blender): I followed the 1 minute tutorial "Create generated stars and galaxys in 1 minute in Blender" by 1 minute Blender (YouTube) to learn the technique for creating stars in Blender, though I edited the setup afterwards (and the rest are all me): https://www.youtube.com/watch?v=d1cu8svVkbE
 - Advice for the horizon fade in the same skybox: Claude
   - Note: Check out the skybox(es) in the images included in the media section.
 - Some textures used in my game: https://polyhaven.com/textures
