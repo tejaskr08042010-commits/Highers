@@ -1,4 +1,4 @@
-Note:- These scripts (MainScripts) are the ones I mainly wanted to show, but the game has many more (probably hundreds) of scripts and subscripts, mostly for the state machines I designed, whose behavior is demonstrated in the video. The Supporting scripts folder is only included so the variables and connections aren’t ambiguous; it isn’t the central part of this portfolio.
+Note:- These scripts (MainScripts) are the ones I mainly wanted to show, but the game has many more (hundreds) of scripts and subscripts, mostly for the state machines I designed, whose behavior is demonstrated in the video. The Supporting scripts folder is only included so the variables and connections aren’t ambiguous; it isn’t the central part of this portfolio.
 
 **Authorship ranking [For C# code]:**
 
