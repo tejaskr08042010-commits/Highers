@@ -93,7 +93,7 @@ public class Activate_Deactivate_OE : MonoBehaviour
 (*The Supporting scripts weren't individually ranked. That folder is only included so the variables and connections aren't ambiguous; it isn't the central part of this portfolio. Almost all of them belong to B (some A).*)
 
 **Notes**
-- OperatorAI is the boss used in the game. Both the ML version (OperatorAI_ML and OperatorAgent) and this interval-based version are present. The ML one's attacks land more often, but it's slow and the fight stretches long, even after many retrains. The interval-based one is quite consistent, and its tight conditions make its attacks hit too, even if not as often.
+- Operator is the boss used in the game. Both the ML version (OperatorAI_ML and OperatorAgent) and the interval-based version (OperatorAI) are present. The ML one's attacks land more often, but it's slow and the fight stretches long, even after many retrains. The interval-based one is quite consistent, and its tight conditions make its attacks hit too, even if not as often.
 - FluidDomainCheck and StillWaterReactor are recent (September 2026), written to practice syntax. They have no limits on their values, because I was deliberately putting in extreme values to see what happens.
 - The visuals of the game are in the media section.
 
