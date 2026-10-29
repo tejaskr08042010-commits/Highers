@@ -85,8 +85,8 @@ public class Activate_Deactivate_OE : MonoBehaviour
 |FluidDomainCheck|S&nbsp;(some&nbsp;A)|Recent (September 2026), written to practice syntax. Most of it was written by me, except the few methods that I couldn't remember.|
 |StillWaterReactor|S&nbsp;(some&nbsp;A)|Recent (September 2026), written to practice syntax. Most of it was written by me, except the few methods that I couldn't remember.|
 |BasicMovement_2|A&nbsp;(some&nbsp;B)|Most parts were written with web-search help for syntax, while others were generated with detailed prompts.|
-|OperatorAI|A&nbsp;(some&nbsp;B)|The boss used in the game. Most parts were written with web-search help for syntax, while others were generated with detailed prompts. Every attack except the teleport only spawns a prefab or turns on an object; the rest runs on state machines I designed.|
-|OperatorAI_ML|A&nbsp;(some&nbsp;B)|The earlier ML version of the boss. Most parts were written with web-search help for syntax, while others were generated with detailed prompts.|
+|OperatorAI|A&nbsp;(some&nbsp;B)|The conditions-based version of the boss. Most parts were written with web-search help for syntax, while others were generated with detailed prompts. Every attack except the teleport only spawns a prefab or turns on an object; the rest runs on state machines I designed.|
+|OperatorAI_ML|A&nbsp;(some&nbsp;B)|The ML version of the boss. Most parts were written with web-search help for syntax, while others were generated with detailed prompts.|
 |MagicCircleHUD|B&nbsp;(some&nbsp;A)|Some parts were written with web-search help, while most were generated with detailed prompts.|
 |OperatorAgent|B|Syntax was almost completely searched for using AI, while I connected the attacks and rewards.|
 
@@ -103,9 +103,10 @@ public class Activate_Deactivate_OE : MonoBehaviour
 - Stars (Blender): I followed the 1 minute tutorial "Create generated stars and galaxys in 1 minute in Blender" by 1 minute Blender (YouTube) to learn the technique for creating stars in Blender, though I edited the setup afterwards (and the rest are all me): https://www.youtube.com/watch?v=d1cu8svVkbE
 - Advice for the horizon fade in the same skybox: Claude
   - Note: Check out the skybox(es) in the images included in the media section.
-- Some textures used in my game: https://polyhaven.com/textures
+- About 17 of the textures used in my game come from Poly Haven: https://polyhaven.com/all
 - ChatGPT (free plan): used to digitalize my hand-drawn images.
 - Picsart (phone app): used to edit images for UI and some textures.
+- GIMP (free software): used to make normal, height and roughness maps.
 - Code generation and editing, as explained above: Claude and Gemini (AI chatbots, free plans)
 
 **A note from the student:** *Though coding is mostly about creating efficient methods that work the way you want them to, while being cheap on the hardware and easy to understand (unless it's for a security system I guess), knowing the syntax lets you use the best tools available. So, I've created this table as the SlideRoom prompt said to explain the use of any assistive tool(s) in detail, and I think web searches and AI clearly fit that criterion. Unfortunately due to my family and academics, I couldn't learn the syntax for every method I created, but still have managed to create some scripts I think are original. I've tried my best to make my portfolio as simple as possible to read, while keeping it honest. The goal isn't to show why I should get in, but to let you (the SlideRoom reviewers) decide if I'll be able to thrive at MIT.*
