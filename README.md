@@ -109,6 +109,9 @@ public class Activate_Deactivate_OE : MonoBehaviour
 - GIMP (free software): used to make normal, height and roughness maps.
 - Code generation and editing, as explained above: Claude and Gemini (AI chatbots, free plans). Claude also helped me in creating a shader "BlackBloom" and if I had to rank it, I would say it was C (with some A as I also made claude explain it), as I barely knew anything about shaders back then.
 - The fracture script I used initially (though it's not used in the game now. I just use the blender plugin "cell fracture" now) : https://github.com/ElasticSea/unity-fracture?tab=MIT-1-ov-file
+- Font (title screen): Ruritania by Paul Lloyd, from dafont.com (listed as “100% Free”): https://www.dafont.com/ruritania.font
+- Background music (For the maker portfolio video): “Omalicha Nwa” by artbybigvee, via Pixabay: https://pixabay.com/music/afrobeat-omalicha-nwa-360659/
+
 
 **A note from the student:** *Though coding is mostly about creating efficient methods that work the way you want them to, while being cheap on the hardware and easy to understand (unless it's for a security system I guess), knowing the syntax lets you use the best tools available. So, I've created this table as the SlideRoom prompt said to explain the use of any assistive tool(s) in detail, and I think web searches and AI clearly fit that criterion. Unfortunately due to my family and academics, I couldn't learn the syntax for every method I created, but still have managed to create some scripts I think are original. I've tried my best to make my portfolio as simple as possible to read, while keeping it honest. The goal isn't to show why I should get in, but to let you (the SlideRoom reviewers) decide if I'll be able to thrive at MIT.*
 
