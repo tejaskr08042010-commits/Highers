@@ -1,4 +1,4 @@
-Note:- These scripts (MainScripts) are the ones I mainly wanted to show, but the game has many more (hundreds) of scripts and subscripts, mostly for the state machines I designed, whose behavior is demonstrated in the video. The Supporting scripts folder is only included so the variables and connections aren’t ambiguous; it isn’t the central part of this portfolio.
+**Note:** These scripts (MainScripts) are the ones I mainly wanted to show, but the game has many more (hundreds) of scripts and subscripts, mostly for the state machines I designed, whose behavior is demonstrated in the video. The Supporting scripts folder is only included so the variables and connections aren't ambiguous; it isn't the central part of this portfolio.
 
 **Authorship ranking [For C# code]:**
 
@@ -92,6 +92,8 @@ public class Activate_Deactivate_OE : MonoBehaviour
 
 (*The Supporting scripts weren't individually ranked. That folder is only included so the variables and connections aren't ambiguous; it isn't the central part of this portfolio. Almost all of them belong to B (some A).*)
 
+*On a different note, this presentation is itself an A :)*
+
 **Notes**
 - Operator is the boss used in the game. Both the ML version (OperatorAI_ML and OperatorAgent) and the conditions-based version (OperatorAI) are present. The ML one's attacks land more often, but it's slow and the fight stretches long, even after many retrains. The conditions-based one is quite consistent, and its tight conditions make its attacks hit too, even if not as often.
 - FluidDomainCheck and StillWaterReactor are recent (September 2026), written to practice syntax. They have no limits on their values, because I was deliberately putting in extreme values to see what happens.
@@ -111,7 +113,11 @@ public class Activate_Deactivate_OE : MonoBehaviour
 - The fracture script I used initially (though it's not used in the game now. I just use the blender plugin "cell fracture" now) : https://github.com/ElasticSea/unity-fracture?tab=MIT-1-ov-file
 - Font (title screen): Ruritania by Paul Lloyd, from dafont.com (listed as “100% Free”): https://www.dafont.com/ruritania.font
 
+**A note from the student:** *Though coding is mostly about creating efficient methods that work the way you want them to, while being cheap on the hardware and easy to understand (unless it's for a security system I guess), knowing the syntax lets you use the best tools available. Due to my academics, I couldn't learn the syntax for every method I created, but still have managed to create some scripts I think are original. I've tried my best to make my portfolio as simple as possible to read, while keeping it honest. The goal isn't to show why I should get in, but to let you (the reviewers) decide if I'll be able to thrive at your college.*
 
-**A note from the student:** *Though coding is mostly about creating efficient methods that work the way you want them to, while being cheap on the hardware and easy to understand (unless it's for a security system I guess), knowing the syntax lets you use the best tools available. So, I've created this table as the SlideRoom prompt said to explain the use of any assistive tool(s) in detail, and I think web searches and AI clearly fit that criterion. Unfortunately due to my family and academics, I couldn't learn the syntax for every method I created, but still have managed to create some scripts I think are original. I've tried my best to make my portfolio as simple as possible to read, while keeping it honest. The goal isn't to show why I should get in, but to let you (the SlideRoom reviewers) decide if I'll be able to thrive at MIT.*
+Now some really important info: why I didn't publish any of my games.
 
-*On a different note, this presentation is itself an A :)*
+1. The terrain game was just me learning the mechanics, it wasn't really playable.
+2. The second game was completed, but I deleted a file which was a part of a bigger Unity package. My console became full of red errors and I didn't even understand most of them at the time. I brought it upon myself honestly, though it did get rid of my habit of deleting files with warnings if I didn't understand what they were related to.
+3. The third game (the game before my current one) is the most complex one. I completed about 80% of the game before JEE started. It was a good game too; it was definitely publishable by my standards back then. But, the game was about a Robot chasing you around in a Hotel and the player tries to solve the puzzles before it catches you - which is a pretty common trope, directly contradicting my "originality" thinking. When my father asked if the $100 Steam fee is worth it and if I was that confident in my game, my answer was... no, especially considering how big a sum $100 is for my family.
+4. When I started on my 4th game, I committed to make a game that I would be confident in publishing. I chose to create a PC (Windows) game, as I didn't have a good phone to test my games on, and I couldn't rely on my friends for professional testing. I'm happy to say I'm still that confident, but sound design is still not complete and JEE's right in front of me. I'll probably upload it after JEE Main, and preferably after having been accepted by a college I applied to.
